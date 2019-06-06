@@ -1,3 +1,3 @@
 # C-Programming
 Hallym University C Programming class 
-수업 내용 
+목적 : 수업 내용 정리 
